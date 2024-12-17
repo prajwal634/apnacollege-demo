@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author - prajwal pachbhai
+author - prajwal (apna college)
