@@ -1,4 +1,7 @@
 # apnacollege-demo
-this is my first git repository
-<br>
-author - prajwal (apna college)
+this is a demo for Git &amp; github class.
+
+# Teacher
+shradha khapra
+# student
+delta student
